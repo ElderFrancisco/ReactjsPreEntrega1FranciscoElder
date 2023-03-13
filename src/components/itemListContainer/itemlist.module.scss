@@ -1,0 +1,11 @@
+.itemListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 2%;
+  max-width: 1200px;
+  padding: 0 20px;
+  border: 1px solid #ccc;
+  background-color: rgba(163, 86, 86, 0.096);
+}
